@@ -46,7 +46,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6) 
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
+![GNS3](https://img.shields.io/badge/-GNS3-000000?style=flat&logo=gns3&logoColor=ffffff&labelColor=000000) 
+![Network Administrator](https://img.shields.io/badge/-Network%20Administrator-000000?style=flat&logo=network&logoColor=ffffff&labelColor=000000)
 
 
 
