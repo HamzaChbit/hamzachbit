@@ -12,7 +12,8 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Hamza%20Chbit-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/hamzachbit/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-hamzachbit%40gmail.com-red?logo=gmail&logoColor=white&labelColor=black)](mailto:hamzachbit@gmail.com)
+
 <br>
 
 
