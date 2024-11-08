@@ -26,8 +26,9 @@ https://simpleicons.org/
 Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in the frontend and backend. I pay *a lot of attention to detail* to generate the best products.
 
 ### 💼 **Freelance Project:**  
-As part of my freelance work, I am currently developing the **official website for Sindibad Agadir Hotel**. If you're looking for a modern, responsive, and functional hotel website, feel free to check it out!  
+As part of my freelance work, I have successfully developed the **official website for Sindibad Agadir Hotel**. It's a modern, responsive, and fully functional hotel website. Feel free to check it out!  
 💻 [Visit Sindibad Agadir Hotel Website](https://sindibadagadir.ma)
+
 
 
 
