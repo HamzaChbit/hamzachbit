@@ -27,7 +27,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ### 💼 **Freelance Project:**  
 As part of my freelance work, I have successfully developed the **official website for Sindibad Agadir Hotel**. It's a modern, responsive, and fully functional hotel website. Feel free to check it out!  
-💻 [Visit Sindibad Agadir Hotel Website](https://hotelsindibad.ma)
+💻 <a href="https://hotelsindibad.ma" target="_blank">Visit Sindibad Agadir Hotel Website</a>
+
 
 
 
