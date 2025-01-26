@@ -19,7 +19,7 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Hamza Chbit</strong></samp></h2>
 <h3 align='center'><strong><a href="https://hamzachbit.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'> Full-Stack Web Developer | System Administration</p>
+<p align='center'> Front End Web Developer | System Administration</p>
 
 <p align='left'> 📫  As someone who is always passionate about learning more about tech and life, I love to develop web scripts, static websites, and have been a self-taught software developer and an unstoppable learner. , specializing in **Front end developer** and **System Administration**, and I enjoy working with cutting-edge tools and technologies, including **Next.js**.</p>
 
